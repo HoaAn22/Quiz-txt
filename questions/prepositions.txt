@@ -1,0 +1,18 @@
+TOPIC: Prepositions
+
+---
+
+Q: She is ___ the room.
+- in
+- on
+- at
+- under
+
+ANS: in
+EXPLAIN:
+- in > enclosed space
+- on > surface
+- at > point
+- under > below
+
+---

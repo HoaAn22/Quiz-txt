@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Quiz</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+<div class="layout">
+
+    <!-- SIDEBAR -->
+    <div class="sidebar">
+        <h3>Topics</h3>
+        <div id="topicList"></div>
+    </div>
+
+    <!-- MAIN GAME -->
+    <div class="container">
+        <h1>English Quiz</h1>
+        <div id="topicTitle">
+            Topic: <span id="topicName"></span> | Score: <span id="score">0</span>
+        </div>
+        <div id="question"></div>
+        <div class="answers">
+            <button onclick="checkAnswer(0)"></button>
+            <button onclick="checkAnswer(1)"></button>
+            <button onclick="checkAnswer(2)"></button>
+            <button onclick="checkAnswer(3)"></button>
+        </div>
+        <div id="explanationBox"></div>
+        <button id="nextBtn" onclick="nextQuestion()">Next</button>
+        <div id="endScreen">Finished!</div>
+    </div>
+</div>
+<script src="script.js"></script>
+</body>
+</html>
