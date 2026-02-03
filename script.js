@@ -100,8 +100,6 @@ function parseTXT(text) {
             }
         }
     }
-
-    // 🔴 CỨU CÂU CUỐI
     save();
 
     return result;
