@@ -22,7 +22,7 @@ async function init() {
 
 /* ================= LOAD ALL TXT ================= */
 async function loadAllTXT() {
-    const index = await fetch("questions/topic.txt").then(r => r.text());
+    const index = await fetch("questions/_topic.txt").then(r => r.text());
 
     const files = index
         .split("\n")
