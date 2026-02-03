@@ -17,4 +17,302 @@ EXPLAIN:
 
 ---
 
+Q: The book is ___ the table.
+- in
+- on
+- at
+- under
 
+ANS: on
+EXPLAIN:
+- on > surface
+- in > enclosed space
+- at > point
+- under > below
+
+---
+
+Q: He is waiting ___ the bus stop.
+- in
+- on
+- at
+- by
+
+ANS: at
+EXPLAIN:
+- at > point, specific place
+- in > enclosed space
+- on > surface
+- by > near
+
+---
+
+Q: The cat is hiding ___ the box.
+- on
+- at
+- in
+- above
+
+ANS: in
+EXPLAIN:
+- in > enclosed space
+- on > surface
+- at > point
+- above > higher than
+
+---
+
+Q: There is a picture ___ the wall.
+- in
+- at
+- on
+- under
+
+ANS: on
+EXPLAIN:
+- on > surface
+- in > enclosed space
+- at > point
+- under > below
+
+---
+
+Q: She arrived ___ the airport early.
+- in
+- on
+- at
+- to
+
+ANS: at
+EXPLAIN:
+- at > specific place
+- in > large area
+- on > surface
+- to > direction
+
+---
+
+Q: He lives ___ Hanoi.
+- at
+- on
+- in
+- to
+
+ANS: in
+EXPLAIN:
+- in > city, country
+- at > exact point
+- on > surface
+- to > direction
+
+---
+
+Q: The keys are ___ my bag.
+- on
+- at
+- in
+- under
+
+ANS: in
+EXPLAIN:
+- in > enclosed space
+- on > surface
+- at > point
+- under > below
+
+---
+
+Q: The teacher is standing ___ the class.
+- in front of
+- behind
+- under
+- between
+
+ANS: in front of
+EXPLAIN:
+- in front of > before
+- behind > at the back
+- under > below
+- between > middle of two
+
+---
+
+Q: The bank is ___ the post office and the school.
+- behind
+- among
+- between
+- in
+
+ANS: between
+EXPLAIN:
+- between > middle of two
+- among > more than two
+- behind > at the back
+- in > enclosed space
+
+---
+
+Q: The clock is ___ the door.
+- above
+- under
+- between
+- at
+
+ANS: above
+EXPLAIN:
+- above > higher than
+- under > below
+- between > middle
+- at > point
+
+---
+
+Q: She sat ___ me during the meeting.
+- between
+- among
+- next to
+- in
+
+ANS: next to
+EXPLAIN:
+- next to > beside
+- between > middle of two
+- among > more than two
+- in > enclosed space
+
+---
+
+Q: The child ran ___ the room.
+- into
+- in
+- on
+- at
+
+ANS: into
+EXPLAIN:
+- into > movement to inside
+- in > position
+- on > surface
+- at > point
+
+---
+
+Q: He walked ___ the bridge.
+- across
+- through
+- over
+- into
+
+ANS: across
+EXPLAIN:
+- across > one side to the other
+- through > inside
+- over > above
+- into > to inside
+
+---
+
+Q: The fish is swimming ___ the water.
+- on
+- in
+- under
+- at
+
+ANS: in
+EXPLAIN:
+- in > inside
+- on > surface
+- under > below
+- at > point
+
+---
+
+Q: He put the phone ___ the desk.
+- in
+- at
+- on
+- under
+
+ANS: on
+EXPLAIN:
+- on > surface
+- in > enclosed space
+- at > point
+- under > below
+
+---
+
+Q: She studies ___ the library every evening.
+- in
+- at
+- on
+- to
+
+ANS: at
+EXPLAIN:
+- at > specific place
+- in > large area
+- on > surface
+- to > direction
+
+---
+
+Q: The dog is sleeping ___ the table.
+- on
+- above
+- under
+- at
+
+ANS: under
+EXPLAIN:
+- under > below
+- on > surface
+- above > higher than
+- at > point
+
+---
+
+Q: There are many students ___ the classroom.
+- at
+- on
+- in
+- to
+
+ANS: in
+EXPLAIN:
+- in > enclosed space
+- at > point
+- on > surface
+- to > direction
+
+---
+
+Q: He stood ___ the door waiting for her.
+- at
+- on
+- in
+- under
+
+ANS: at
+EXPLAIN:
+- at > specific point
+- on > surface
+- in > enclosed space
+- under > below
+
+---
+
+Q: The plane is flying ___ the clouds.
+- under
+- between
+- above
+- in
+
+ANS: above
+EXPLAIN:
+- above > higher than
+- under > below
+- between > middle of two
+- in > enclosed space
+
+---
