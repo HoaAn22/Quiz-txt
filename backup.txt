@@ -1,0 +1,273 @@
+
+Q: She was born ___ 2001.
+
+on
+
+in
+
+at
+
+during
+
+ANS: in
+EXPLAIN:
+
+in > dùng cho năm, tháng, thế kỷ.
+
+on > dùng cho ngày.
+
+at > dùng cho thời điểm chính xác.
+
+during > trong suốt.
+
+Q: He usually studies ___ the evening.
+
+at
+
+on
+
+in
+
+during
+
+ANS: in
+EXPLAIN:
+
+in > dùng cho buổi trong ngày (morning, afternoon, evening).
+
+at > chỉ dùng với at night (ngoại lệ).
+
+on > dùng cho ngày.
+
+during > khoảng kéo dài.
+
+Q: They met ___ night.
+
+in
+
+on
+
+at
+
+during
+
+ANS: at
+EXPLAIN:
+
+at night > cụm cố định.
+
+in night > sai ngữ pháp.
+
+on night > chỉ dùng khi có ngày cụ thể.
+
+during night > nhấn mạnh suốt đêm, khác nghĩa.
+
+Q: The meeting starts ___ 9:30.
+
+in
+
+on
+
+at
+
+during
+
+ANS: at
+EXPLAIN:
+
+at > dùng cho giờ chính xác.
+
+in > khoảng dài.
+
+on > ngày.
+
+during > suốt khoảng.
+
+Q: I will finish the report ___ two days.
+
+in
+
+after
+
+during
+
+at
+
+ANS: in
+EXPLAIN:
+
+in > khoảng thời gian tính từ hiện tại đến tương lai.
+
+after > xảy ra sau khi khoảng thời gian kết thúc.
+
+during > trong suốt.
+
+at > thời điểm.
+
+Q: He stayed in hospital ___ a week.
+
+for
+
+since
+
+in
+
+during
+
+ANS: for
+EXPLAIN:
+
+for > độ dài thời gian.
+
+since > mốc bắt đầu.
+
+in > không dùng cho độ dài.
+
+during > trong suốt, không nhấn mạnh độ dài.
+
+Q: She has lived here ___ 2018.
+
+for
+
+since
+
+during
+
+at
+
+ANS: since
+EXPLAIN:
+
+since > mốc thời gian bắt đầu.
+
+for > độ dài.
+
+during > trong suốt.
+
+at > thời điểm.
+
+Q: We didn’t talk ___ the meeting.
+
+during
+
+in
+
+at
+
+on
+
+ANS: during
+EXPLAIN:
+
+during > trong suốt một sự kiện.
+
+in > không dùng cho sự kiện.
+
+at > chỉ điểm.
+
+on > ngày.
+
+Q: He fell asleep ___ the movie.
+
+during
+
+in
+
+at
+
+on
+
+ANS: during
+EXPLAIN:
+
+during > hành động xảy ra khi sự kiện đang diễn ra.
+
+in > không phù hợp.
+
+at > chỉ điểm.
+
+on > ngày.
+
+Q: The store is closed ___ lunchtime.
+
+at
+
+in
+
+on
+
+during
+
+ANS: at
+EXPLAIN:
+
+at > dùng cho mốc thời gian cụ thể (lunchtime, noon).
+
+in > khoảng dài.
+
+on > ngày.
+
+during > suốt khoảng.
+
+Q: She usually reads books ___ the weekend.
+
+at
+
+on
+
+in
+
+during
+
+ANS: at
+EXPLAIN:
+
+at the weekend > cách dùng phổ biến (Anh–Anh).
+
+on the weekend > Anh–Mỹ, cũng đúng nhưng khác chuẩn.
+
+in > không dùng.
+
+during > suốt cả cuối tuần, khác nghĩa.
+
+Q: We moved here ___ the summer of 2020.
+
+in
+
+on
+
+at
+
+during
+
+ANS: in
+EXPLAIN:
+
+in > dùng cho mùa + năm.
+
+on > ngày.
+
+at > điểm.
+
+during > nhấn mạnh suốt cả mùa.
+
+Q: He left ___ the end of the class.
+
+at
+
+in
+
+on
+
+during
+
+ANS: at
+EXPLAIN:
+
+at the end of > cụm cố định.
+
+in the end > nghĩa là "cuối cùng", không chỉ thời gian.
+
+on > ngày.
+
+during > suốt khoảng.

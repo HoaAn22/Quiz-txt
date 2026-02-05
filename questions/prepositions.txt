@@ -316,3 +316,33 @@ EXPLAIN:
 - in > enclosed space
 
 ---
+
+Q: I wake up ___ 6 a.m. every day.
+- at
+- on
+- in
+- during
+
+ANS: at
+EXPLAIN:
+- at > dùng cho thời điểm chính xác (giờ, phút).
+- on > dùng cho ngày, không dùng cho giờ.
+- in > dùng cho khoảng thời gian dài.
+- during > trong suốt một khoảng thời gian.
+
+---
+
+Q: We have an English test ___ Monday.
+- in
+- at
+- on
+- during
+
+ANS: on
+EXPLAIN:
+- on > dùng cho ngày cụ thể.
+- in > dùng cho tháng, năm, buổi.
+- at > dùng cho thời điểm chính xác.
+- during > chỉ khoảng kéo dài.
+
+---
