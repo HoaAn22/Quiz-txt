@@ -10,10 +10,10 @@ Q: She is ___ the room.
 
 ANS: in
 EXPLAIN:
-- in > Dùng cho không gian kín, có ranh giới bao quanh (như: phòng, hộp, nhà,...)
-- on > Dùng khi nằm trên bề mặt
-- at > Dùng nhấn mạnh một điểm
-- under > Bằng nghĩa với "below", sai ngữ nghĩa
+- in > enclosed space
+- on > surface
+- at > point
+- under > below
 
 ---
 
@@ -25,10 +25,10 @@ Q: The book is ___ the table.
 
 ANS: on
 EXPLAIN:
-- on > Dùng khi nằm trên bề mặt
-- in > Dùng cho không gian kín, có ranh giới bao quanh (như: phòng, hộp, nhà,...)
-- at > Dùng nhấn mạnh một điểm
-- under > Bằng nghĩa với "below", sai ngữ nghĩa
+- on > surface
+- in > enclosed space
+- at > point
+- under > below
 
 ---
 
