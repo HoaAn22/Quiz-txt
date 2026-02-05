@@ -55,7 +55,7 @@ Q: The cat is hiding ___ the box.
 
 ANS: in
 EXPLAIN:
-- in > enclosed space
+- in > Dùng cho không gian kín, có ranh giới bao quanh (như: phòng, hộp, nhà,...), cái hộp là không gian kín.
 - on > surface
 - at > point
 - above > higher than
