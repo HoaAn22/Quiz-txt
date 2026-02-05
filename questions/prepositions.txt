@@ -40,7 +40,7 @@ Q: He is waiting ___ the bus stop.
 
 ANS: at
 EXPLAIN:
-- at > Dùng nhấn mạnh mọt điểm cụ thể, điểm dừng
+- at > Dùng nhấn mạnh một điểm cụ thể, điểm dừng
 - in > Dùng cho không gian kín, bến xe không phải không gian kín
 - on > Dùng khi tiếp xúc, nằm trên bề mặt
 - by > Bằng nghĩa với từ "near", không chính xác bằng "at"
@@ -56,9 +56,9 @@ Q: The cat is hiding ___ the box.
 ANS: in
 EXPLAIN:
 - in > Dùng cho không gian kín, có ranh giới bao quanh (như: phòng, hộp, nhà,...), cái hộp là không gian kín.
-- on > surface
-- at > point
-- above > higher than
+- on > Dùng khi tiếp xúc, nằm trên bề mặt
+- at > Dùng nhấn mạnh một điểm cụ thể, điểm dừng
+- above > Bằng nghĩa với "higher than", ở phía trên và không tiếp xúc
 
 ---
 
