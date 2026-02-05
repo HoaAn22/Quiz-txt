@@ -12,7 +12,7 @@ ANS: in
 EXPLAIN:
 - in > Dùng cho không gian kín, có ranh giới bao quanh (như: phòng, hộp, nhà,...)
 - on > Dùng khi nằm trên bề mặt
-- at > Dùng nhấn mạnh một điểm
+- at > Dùng nhấn mạnh một điểm cụ thể, điểm dừng
 - under > Bằng nghĩa với "below", sai ngữ nghĩa
 
 ---
@@ -27,7 +27,7 @@ ANS: on
 EXPLAIN:
 - on > Dùng khi nằm trên bề mặt
 - in > Dùng cho không gian kín, có ranh giới bao quanh (như: phòng, hộp, nhà,...)
-- at > Dùng nhấn mạnh một điểm
+- at > Dùng nhấn mạnh một điểm cụ thể, điểm dừng
 - under > Bằng nghĩa với "below", sai ngữ nghĩa
 
 ---
@@ -40,10 +40,10 @@ Q: He is waiting ___ the bus stop.
 
 ANS: at
 EXPLAIN:
-- at > point, specific place
-- in > enclosed space
-- on > surface
-- by > near
+- at > Dùng nhấn mạnh mọt điểm cụ thể, điểm dừng
+- in > Dùng cho không gian kín, bến xe không phải không gian kín
+- on > Dùng khi tiếp xúc, nằm trên bề mặt
+- by > Bằng nghĩa với từ "near", không chính xác bằng "at"
 
 ---
 
