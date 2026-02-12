@@ -178,23 +178,32 @@ function checkAnswer(btn, selected) {
 
     if (selected === correct) {
         btn.classList.add("correct");
+
         score += 10;
         scoreEl.textContent = score;
 
         explanationBox.className = "correct";
-        explanationBox.innerHTML =
-            `<b>Correct.</b><br>${q.explanation[selected] || ""}`;
+        explanationBox.innerHTML = `
+            <b>Correct.</b><br><br>
+            <b>Why this answer is correct:</b><br>
+            ${q.explanation[correct] || "No explanation provided."}
+        `;
     } else {
         btn.classList.add("wrong");
 
         document.querySelectorAll(".answers button").forEach(b => {
-            if (b.textContent === correct) b.classList.add("correct");
+            if (b.textContent === correct) {
+                b.classList.add("correct");
+            }
         });
 
         explanationBox.className = "wrong";
-        explanationBox.innerHTML =
-            `<b>Wrong.</b><br>
-             ${q.explanation[selected] || ""}`;
+        explanationBox.innerHTML = `
+            <b class="wrong">Why your answer is wrong:</b> ${q.explanation[selected] || "No explanation provided."}
+            <hr>
+            <b class="correct">Correct answer:</b> ${correct}<br>
+            <b class="correct">Why this answer is correct:</b> ${q.explanation[correct] || "No explanation provided."}
+        `;
     }
 
     nextBtn.style.display = "inline-block";

@@ -126,11 +126,19 @@ h1 {
 }
 
 /* ================= ĐÚNG / SAI ================= */
-.correct {
+b.wrong {
+    color: crimson;
+}
+
+b.correct {
+    color: #1faa59;
+}
+
+button.correct {
     background: #1faa59 !important;
 }
 
-.wrong {
+button.wrong {
     background: #d72638 !important;
 }
 
@@ -145,11 +153,11 @@ h1 {
 }
 
 #explanationBox.correct {
-    border-left: 4px solid #00ff99;
+    border-left: 5px solid #1faa59;
 }
 
 #explanationBox.wrong {
-    border-left: 4px solid crimson;
+    border-left: 5px solid crimson;
 }
 
 /* ================= NÚT NEXT ================= */

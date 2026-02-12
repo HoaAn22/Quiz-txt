@@ -139,39 +139,46 @@ function loadQuestion() {
 /* ======================
    CHECK ANSWER + EXPLAIN
 ====================== */
-function checkAnswer(button, selected) {
+function checkAnswer(btn, selected) {
     const q = questions[current];
     const correct = q.answer;
-    const buttons = document.querySelectorAll(".answers button");
 
-    buttons.forEach(b => b.disabled = true);
+    document.querySelectorAll(".answers button")
+        .forEach(b => b.disabled = true);
 
     explanationBox.style.display = "block";
 
     if (selected === correct) {
-        button.classList.add("correct");
+        btn.classList.add("correct");
 
         score += 10;
-        scoreEl.innerText = score;
+        scoreEl.textContent = score;
 
-        explanationBox.classList.add("correct");
-        explanationBox.innerHTML =
-            `<b>Correct.</b><br>${q.explanation[selected] || ""}`;
-
+        explanationBox.className = "correct";
+        explanationBox.innerHTML = `
+            <b>Correct.</b><br><br>
+            <b>Why this answer is correct:</b><br>
+            ${q.explanation[correct] || "No explanation provided."}
+        `;
     } else {
-        button.classList.add("wrong");
+        btn.classList.add("wrong");
 
-        buttons.forEach(b => {
-            if (b.innerText === correct) {
+        document.querySelectorAll(".answers button").forEach(b => {
+            if (b.textContent === correct) {
                 b.classList.add("correct");
             }
         });
 
-        explanationBox.classList.add("wrong");
-        explanationBox.innerHTML =
-            `<b>Wrong.</b><br>
-             <b>Correct answer:</b> ${correct}<br><br>
-             ${q.explanation[selected] || ""}`;
+        explanationBox.className = "wrong";
+        explanationBox.innerHTML = `
+            <b>Wrong.</b><br>
+            <b>Why your answer is wrong:</b><br>
+            ${q.explanation[selected] || "No explanation provided."}
+            <hr>
+            <b>Correct answer:</b> ${correct}<br>
+            <b>Why this answer is correct:</b><br>
+            ${q.explanation[correct] || "No explanation provided."}
+        `;
     }
 
     nextBtn.style.display = "inline-block";
